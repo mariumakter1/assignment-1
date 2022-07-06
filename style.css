@@ -19,7 +19,7 @@ body {
 }
 
 .text-boX {
-    color: rgba(102, 0, 255, 0.723);
+    color: orangered;
     text-align: center;
     padding-top: 18%;
 }
@@ -28,7 +28,7 @@ body {
     font-size: 75px;
 }
 
-.text-boX p {
+.text-boX p top-section {
     margin: 11px 0 38px;
     font-size: 25px;
     color: rgba(132, 0, 255, 0.647);
@@ -64,7 +64,7 @@ body {
 
 }
 
-.money-donate p {
+.money-donate p top-section {
     font-size: 25px;
     color: black;
     padding: top 30px;
@@ -95,9 +95,168 @@ body {
 
 }
 
-.text {
+
+input {
+    padding: 20px;
     border-top: none;
     border-left: none;
     border-right: none;
-    font-size: medium;
+    border-width: 50%;
+
+
 }
+
+.fund-btn {
+    margin-top: 2%;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 14px;
+    padding-left: 14px;
+    background-color: coral;
+    border-radius: 10px;
+}
+
+.donate-plan h2 {
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    margin: 3% 30% 3% 35%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+
+}
+
+.donate-plan p {
+    text-align: center;
+    margin: 3% 30% 4% 15%;
+    font: weight 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flexible-container {
+    display: flex;
+    margin: 5% 15% 3% 15%;
+
+
+}
+
+.our-plan {
+    width: 50%;
+    padding-left: 2%;
+    box-shadow: rgba(240, 255, 255, 0.265);
+    background-color: blanchedalmond;
+    margin: 1% 2% 1% 2%;
+}
+
+.our-plan h1 {
+    font: 25px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+#icon-style {
+    width: 64px;
+}
+.lower-section {
+    width: 50%;
+    padding-left: 5%;
+}
+.lower-section img {
+    width: 65%;
+
+}
+.about-flood{
+    
+    display: flex;
+}
+.link-button{
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 40px;
+    border-radius: 7px;
+    margin-top:6%;
+
+}
+
+.lower-section-1 {
+    margin-top: 4%;
+    width: 50%;
+    margin-left: 16%;
+}
+
+
+a{
+    text-decoration: none;
+}
+.lower-section-1 h1{
+    margin-bottom: 3%;
+    font-size: 3em;
+    padding-right: 2%;
+
+}
+.lower-section-1 p{
+    text-align: left;
+    padding-right: 2%;
+}
+.lower-section{
+    margin-top: 4%;
+}
+.btm-lower-1 h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 3%;
+}
+.btm-lower-1 p{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.btm-lower-2{
+    display: flex;
+    margin: 10% 30% 5% 30%;
+    padding: 3% 10% 3% 10% ;
+    background-color: blanchedalmond;
+    
+    
+
+}
+#click{
+    background-color: coral;
+    
+}
+#email{
+    background-color: darkgray;
+}
+
+
+.footer h1{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 35px;
+     text-align: center;
+     padding-bottom: 15px;
+    
+
+
+}
+.footer-1{
+    text-align: center;
+    font-size: 25px;
+    top-margin:5%;
+    padding-right: 1%;
+
+}
+.footer{
+       background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
