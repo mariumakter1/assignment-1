@@ -157,24 +157,28 @@ input {
 #icon-style {
     width: 64px;
 }
+
 .lower-section {
     width: 50%;
     padding-left: 5%;
 }
+
 .lower-section img {
     width: 65%;
 
 }
-.about-flood{
-    
+
+.about-flood {
+
     display: flex;
 }
-.link-button{
+
+.link-button {
     text-decoration: none;
     background-color: coral;
     padding: 10px 40px;
     border-radius: 7px;
-    margin-top:6%;
+    margin-top: 6%;
 
 }
 
@@ -185,78 +189,76 @@ input {
 }
 
 
-a{
+a {
     text-decoration: none;
 }
-.lower-section-1 h1{
+
+.lower-section-1 h1 {
     margin-bottom: 3%;
     font-size: 3em;
     padding-right: 2%;
 
 }
-.lower-section-1 p{
+
+.lower-section-1 p {
     text-align: left;
     padding-right: 2%;
 }
-.lower-section{
+
+.lower-section {
     margin-top: 4%;
 }
-.btm-lower-1 h1{
+
+.btm-lower-1 h1 {
     text-align: center;
     font-size: 50px;
     margin-top: 3%;
 }
-.btm-lower-1 p{
+
+.btm-lower-1 p {
     text-align: center;
     margin-top: 2%;
     margin-bottom: 3%;
 }
-.btm-lower-2{
+
+.btm-lower-2 {
     display: flex;
-    margin: 10% 30% 5% 30%;
-    padding: 3% 10% 3% 10% ;
+    margin: 5% 30% 5% 30%;
+    padding: 3% 10% 3% 10%;
     background-color: blanchedalmond;
-    
-    
+
+
 
 }
-#click{
+
+#click {
     background-color: coral;
-    
+
 }
-#email{
+
+#email {
     background-color: darkgray;
 }
 
 
-.footer h1{
-     font-family: Verdana, Geneva, Tahoma, sans-serif;
-     font-size: 35px;
-     text-align: center;
-     padding-bottom: 15px;
-    
+.footer h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 15px;
+
 
 
 }
-.footer-1{
+
+.footer-1 {
     text-align: center;
     font-size: 25px;
-    top-margin:5%;
+    top-margin: 5%;
     padding-right: 1%;
 
 }
-.footer{
-       background-color: aqua;
+
+.footer {
+    background-color: aqua;
 }
-
-
-
-
-
-
-
-
-
-
-
-
